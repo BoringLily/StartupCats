@@ -21,27 +21,13 @@ function App() {
     navigate("/dashboard")
   }
 
-  const renderRoutes = () => {
-    if(loggedIn){
-      return (<>
-        
-      </>
-      )
-    }
-    else {
-      return <></>
-    }
-  }
-
-
   return (
     <div className="App">
-      <nav className='text-white flex flex-row w-2/3 justify-end gap-10 p-4'> <div className='hover:text-rose-400'>Home</div> <div className='hover:text-rose-400'> Dashboard</div> </nav>
+      <nav className='text-white flex flex-row w-2/3 justify-end gap-10 p-4'> <Link to="/" className='hover:text-rose-400'>Home</Link> <Link to="/dashboard" className='hover:text-rose-400'> Dashboard</Link> </nav>
 
       <Routes>
         <Route path="/" element={<Home isLoggedIn={loggedIn}/>} />
         <Route path="/dashboard" element={<Dashboard />} />
-        {/* <Route path="/login" element={<div><Auth supabaseClient={supabase} appearance={{ theme: ThemeSupa }} theme="dark" providers={[]}/></div>} /> */}
       </Routes>
 
       <footer>
