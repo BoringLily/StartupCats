@@ -19,10 +19,10 @@ const jobTitleOptions = [
 
 const traitOptions = [
     'Leader',
-    'Technical',
     'Cuddly',
-    'Fast',
-    'Master'
+    'Silly',
+    'Sleepy',
+    'Stylish'
 ]
 
 const colorOptions = [
@@ -94,10 +94,11 @@ export default function AddCard({ supabase }: any) {
                 <select className="text-black p-2 w-full rounded-xl" value={colorSelect} onChange={handleColorChange}>
                     {colorOptions.map((option, index) => (<option key={index} value={option}>{option}</option>))}
                 </select>
-                <div> 
-                <Link to="/dashboard">cancel</Link>
-                <button className="rounded-lg bg-gradient-to-r from-purple-200 to-pink-200 border-0 text-black font-nunito font-semibold m-4" onClick={handleAddMember}> Add Member </button>
-                </div>
+                <div className="flex flex-row p-2 justify-around items-center"> 
+                        <Link to="/dashboard" className="p-2 m-2 hover:text-blue-500">cancel</Link>
+                        <button className="rounded-lg cat-bg-green border-0 text-slate-500 border-solid font-nunito m-2 font-semibold hover:text-green-600" onClick={handleAddMember}> Add </button>
+
+                    </div>
 
             </div>
 

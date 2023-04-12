@@ -9,7 +9,6 @@ import { Routes, Route, Link, useNavigate } from "react-router-dom";
 import Dashboard from './routes/Dashboard';
 import Home from './routes/Home';
 import AddCard from './routes/AddCard'
-import Badge from './components/Badge'
 import UpdateCard from './routes/UpdateCard'
 
 const supabaseClient = createClient(import.meta.env.VITE_SB_URL, import.meta.env.VITE_SB_KEY)

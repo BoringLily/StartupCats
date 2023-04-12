@@ -37,7 +37,7 @@ export default function Dashboard({supabase}:any) {
                 <InteractCatCard key={value.id} data={value}/>
             ): "Your team currently has no members"
         }</div>
-        <Link to="/dashboard/add" className='text-black font-nunito font-bold text-lg m-2 px-8 py-4 rounded-lg bg-gradient-to-r from-purple-200 to-pink-200 border-0 w-fit'> Add Cats </Link>
+        <Link to="/dashboard/add" className='font-nunito font-bold text-lg m-2 px-8 py-4 rounded-lg bg-gradient-to-r from-purple-200 to-pink-200 border-0 w-fit text-slate-800 hover:text-slate-500 transition'> Add Cats </Link>
 
     </div>
 }
