@@ -8,8 +8,6 @@ export interface HomeTypes{
 
 export default function Home({isLoggedIn}:HomeTypes)
 {
-
-
     return(
         <div className='Home'>
         <div className='text-white text-3xl font-semibold font-nunito text-left'> Welcome to </div>

@@ -1,0 +1,168 @@
+.cat-emboss {
+    background: linear-gradient(27.1deg, rgba(255, 255, 255, 0.64) 0.85%, rgba(255, 255, 255, 0) 137.46%), #3E3E3E;
+    background-blend-mode: overlay, normal;
+    mix-blend-mode: overlay;
+    box-shadow: inset -0.458824px 0.229412px 0.688235px rgba(0, 0, 0, 0.64);
+}
+
+.cat-bg-lime {
+    background: linear-gradient(207.7deg, rgba(0, 0, 0, 0) 68.81%, rgba(0, 0, 0, 0.4) 200.49%), radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.64) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , #6E7853;
+    background-blend-mode: overlay, overlay, overlay, normal;
+}
+
+.cat-bg-red {
+    background: linear-gradient(207.7deg, rgba(0, 0, 0, 0) 68.81%, rgba(0, 0, 0, 0.4) 200.49%), radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.64) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , #785553;
+    background-blend-mode: overlay, overlay, overlay, normal;
+}
+
+.cat-bg-pink{
+    background: linear-gradient(207.7deg, rgba(0, 0, 0, 0) 68.81%, rgba(0, 0, 0, 0.4) 200.49%), radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.64) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , #785367;
+    background-blend-mode: overlay, overlay, overlay, normal;
+}
+
+.cat-bg-ocre {
+    background: linear-gradient(207.7deg, rgba(0, 0, 0, 0) 68.81%, rgba(0, 0, 0, 0.4) 200.49%), radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.64) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , #786E53;
+    background-blend-mode: overlay, overlay, overlay, normal;
+}
+
+.cat-bg-brown {
+    background: linear-gradient(207.7deg, rgba(0, 0, 0, 0) 68.81%, rgba(0, 0, 0, 0.4) 200.49%), radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.64) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , #786253;
+    background-blend-mode: overlay, overlay, overlay, normal;
+}
+
+.cat-bg-green {
+    background: linear-gradient(207.7deg, rgba(0, 0, 0, 0) 68.81%, rgba(0, 0, 0, 0.4) 200.49%), radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.64) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , #637853;
+    background-blend-mode: overlay, overlay, overlay, normal;
+}
+
+.cat-bg-mint{
+    background: linear-gradient(207.7deg, rgba(0, 0, 0, 0) 68.81%, rgba(0, 0, 0, 0.4) 200.49%), radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.64) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , #537866;
+    background-blend-mode: overlay, overlay, overlay, normal;
+}
+
+.cat-bg-turquoise{
+    background: linear-gradient(207.7deg, rgba(0, 0, 0, 0) 68.81%, rgba(0, 0, 0, 0.4) 200.49%), radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.64) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , #537876;
+    background-blend-mode: overlay, overlay, overlay, normal;
+}
+
+.cat-bg-blue {
+    background: linear-gradient(207.7deg, rgba(0, 0, 0, 0) 68.81%, rgba(0, 0, 0, 0.4) 200.49%), radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.64) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , #536878;
+    background-blend-mode: overlay, overlay, overlay, normal;
+}
+
+.cat-bg-purple {
+    background: linear-gradient(207.7deg, rgba(0, 0, 0, 0) 68.81%, rgba(0, 0, 0, 0.4) 200.49%), radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.64) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , #5F5378;
+    background-blend-mode: overlay, overlay, overlay, normal;
+}
+
+.cat-bg-lilac{
+    background: linear-gradient(207.7deg, rgba(0, 0, 0, 0) 68.81%, rgba(0, 0, 0, 0.4) 200.49%), radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.64) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , #735378;
+    background-blend-mode: overlay, overlay, overlay, normal;
+}
+
+.cat-bg-coral{
+    background: linear-gradient(207.7deg, rgba(0, 0, 0, 0) 68.81%, rgba(0, 0, 0, 0.4) 200.49%), radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.64) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , #AD6B5C;
+    background-blend-mode: overlay, overlay, overlay, normal;
+}
+
+.cat-bg-light-grey {
+    background: linear-gradient(207.7deg, rgba(0, 0, 0, 0) 68.81%, rgba(0, 0, 0, 0.4) 200.49%), radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.64) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , #8B949D;
+    background-blend-mode: overlay, overlay, overlay, normal;
+}
+
+.cat-bg-dark-grey {
+    background: linear-gradient(207.7deg, rgba(0, 0, 0, 0) 68.81%, rgba(0, 0, 0, 0.4) 200.49%), radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.64) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , #1D2126;
+    background-blend-mode: overlay, overlay, overlay, normal;
+}
+
+.cat-bg-grey{
+    background: linear-gradient(207.7deg, rgba(0, 0, 0, 0) 68.81%, rgba(0, 0, 0, 0.4) 200.49%), radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.64) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , #4F5257;
+    background-blend-mode: overlay, overlay, overlay, normal;
+}
+
+.cat-bg-dark-blue{
+    background: linear-gradient(207.7deg, rgba(0, 0, 0, 0) 68.81%, rgba(0, 0, 0, 0.4) 200.49%), radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.64) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , radial-gradient(337.23% 269.79% at 100% 0%, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , #131F32;
+    background-blend-mode: overlay, overlay, overlay, normal;
+}
+
+.CatCard {
+    transition: 1s ease-in-out;
+}
+
+.CatCard:hover {
+    box-shadow: 10px 10px 30px #ffffff8f;
+    transition: 500ms ease-in-out;
+    scale: 1.1;
+}
+
+.cat-soft {
+    mix-blend-mode: soft-light;
+}
+
+.cat-overlay {
+    mix-blend-mode: overlay;
+}
