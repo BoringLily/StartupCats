@@ -4,7 +4,7 @@ Submitted by: **Lily**
 
 This web app: Build the *Purrrrfect* team and launch a project.
 
-Time spent: **7** hours spent in total
+Time spent: **13** hours spent in total
 
 ## Required Features
 
@@ -13,28 +13,23 @@ The following **required** functionality is completed:
 - [x] **A create form allows users to add new cremates**
 - [x] **Users can name the crewmate and set the crewmate's attributes by clicking on one of several values**
 - [x] **The site displays a summary page of all the user's added crewmates**
-- [ ] **A previously created crewmate can be updated and deleted from the crewmate list**
-- [ ] **Each crewmate has a direct, unique link to an info page about them**
-
-<!--
-The following **optional** features are implemented:
-
-- [ ] A crewmate can be given a category upon creation which restricts their attributes
-- [ ] The site displays summary statistics about a user's crew on their crew page 
-- [ ] The site displays a custom "success" metric about a user's crew which changes the look of the crewmate list
+- [x] **A previously created crewmate can be updated and deleted from the crewmate list**
+- [x] **Each crewmate has a direct, unique link to an info page about them**
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
--->
+- [x] ** Fancy Animations **
+- [x] ** EyeCatching UI with CATS **
+- [x] ** Uses TypeScript for increased type safety **
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/BoringLily/StartupCats/blob/main/public/StartupCatsPreview.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/BoringLily/StartupCats/blob/main/public/StartupCatsPreview.gif' title='Video Walkthrough' width='2560' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Giphy  
+GIF created with OBS and CloudConvert
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -42,7 +37,7 @@ GIF created with Giphy
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The biggest challenge was mostly styling and ensuring everything looks good. The 
 
 ## License
 
